@@ -1,0 +1,11 @@
+{
+  "name": "genpark-multi-modal-token-budget-and-resolution-scaler-skill",
+  "version": "1.0.0",
+  "description": "Dynamically scales high-resolution image and video frame dimensions to fit multimodal vision-LLM token budgets",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
